@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "2D → 3D Topographic Map",
+  "version": "1.0",
+  "description": "Drop a 2D topographic map image and download the 3D model, CSV, and Excel height data.",
+  "action": {
+    "default_title": "Open Topo Converter"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
