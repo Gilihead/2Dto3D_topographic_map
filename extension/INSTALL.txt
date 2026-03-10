@@ -1,0 +1,31 @@
+2D → 3D Topographic Map — Installation Guide
+=============================================
+
+Works on: Google Chrome and Microsoft Edge
+
+Steps
+-----
+1. Extract this zip to any folder (e.g. Desktop\topo3d_extension)
+
+2. Open your browser and go to:
+     Chrome  →  chrome://extensions
+     Edge    →  edge://extensions
+
+3. Turn ON "Developer mode" (toggle in the top-right corner)
+
+4. Click "Load unpacked"
+
+5. Select the folder you extracted (the one containing manifest.json)
+
+6. The extension is now installed.
+   Click the puzzle-piece icon in the toolbar → pin "Topo3D" → click it to open.
+
+Usage
+-----
+- Drop a coloured topographic map image onto the page
+- Wait for processing (~5–15 seconds depending on image size)
+- Use the sidebar links to download:
+    · 3D Plot (PNG)
+    · Height Data (CSV)
+    · Height Data (Excel)
+- Click "New Image" to process another image
